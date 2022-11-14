@@ -1,7 +1,7 @@
 .all {
-  margin: 6% 25%;
+  margin: 1% 25%;
   border-radius: 20px;
-  height: 70vh;
+  height: 93vh;
   width: 500px;
   background: linear-gradient(to bottom, #f7f7fe, #dff1ff);
   border: 1px solid rgba(255, 255, 255, 0.5);
@@ -48,6 +48,19 @@ transition-duration: 1s;
 }
 @media (max-width:480px){
   .all{
- width: 25%;
+ width: 26%;
+ height: 20%;
+ margin-left: 4%;
   }
+}
+.pol{
+  font-size: larger;
+  color:rgb(32, 23, 32);
+}
+.gen{
+  display: flex;
+  flex-direction: row;
+}
+.err {
+  border: 2px solid rgb(160, 16, 16);
 }
