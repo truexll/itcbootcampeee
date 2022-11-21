@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/itcbootcampeee/static/css/main.3af7821c.css",
+    "main.js": "/itcbootcampeee/static/js/main.6c41eb61.js",
+    "index.html": "/itcbootcampeee/index.html",
+    "main.3af7821c.css.map": "/itcbootcampeee/static/css/main.3af7821c.css.map",
+    "main.6c41eb61.js.map": "/itcbootcampeee/static/js/main.6c41eb61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3af7821c.css",
+    "static/js/main.6c41eb61.js"
+  ]
+}
