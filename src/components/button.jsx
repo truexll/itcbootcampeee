@@ -16,16 +16,7 @@ const Button = () => {
    })
    
  
-const inputs = document.querySelectorAll('.hide')
-const databbb = () => {
-  inputs.forEach(element => {
-    if (element.value.trim().length === 0) {
-      element.classList.add('err')
-    } else {
-      element.classList.remove('err')
-    }
-  });
-}
+ 
 
   const genderClick = event =>{
     const target = event.target
