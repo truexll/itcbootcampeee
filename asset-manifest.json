@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/itcbootcampeee/static/css/main.f5047191.css",
+    "main.css": "/itcbootcampeee/static/css/main.a30d71a4.css",
     "main.js": "/itcbootcampeee/static/js/main.6c41eb61.js",
     "index.html": "/itcbootcampeee/index.html",
-    "main.f5047191.css.map": "/itcbootcampeee/static/css/main.f5047191.css.map",
+    "main.a30d71a4.css.map": "/itcbootcampeee/static/css/main.a30d71a4.css.map",
     "main.6c41eb61.js.map": "/itcbootcampeee/static/js/main.6c41eb61.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5047191.css",
+    "static/css/main.a30d71a4.css",
     "static/js/main.6c41eb61.js"
   ]
 }
